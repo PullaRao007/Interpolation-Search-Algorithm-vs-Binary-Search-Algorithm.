@@ -38,7 +38,3 @@ LOOK UP:
 2. What is Binary Search Algorithm?
 3. Analysis of this two algorithm results and findings on comparing the algorithms under different running conditions.
 All these information have been analyzed and documented and attached in this project as AOS_Documentation_Mundru.pdf.
-
-REFERENCE URL:
-1. This project can be cloned from GitHub
-Clone the project from https://github.com/appacademy-starters/data-structures-binary-search-tree-starter.
